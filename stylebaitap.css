@@ -1,0 +1,72 @@
+.header{
+    background: white;
+}
+.logo{
+    margin-bottom: 0px;
+    float: left;
+    padding: 0 0 0 10px;
+    
+}
+
+.web{
+    float: right;
+}
+
+nav{
+    background: #32CD32;
+}
+
+nav a{
+    display: inline-block;
+    padding: 10px;
+    font-size: 25px;
+    color: white;
+}
+
+nav a:hover{
+    background: #333;
+}
+
+.container{
+    float: right;
+}
+
+.search {
+    padding: 5px 0;
+    width: 280px;
+    height: 30px;
+    position: relative;
+    float: left;
+    line-height: 22px;
+}
+.clear{
+    clear: both;
+}
+
+.search input {
+    position: absolute;
+    float: Left;
+    margin-left: 210px;
+    height: 20px;
+    line-height: 18px;
+    padding: 2px 2px 0 0;
+}
+
+.search:hover input, .search input:focus {
+    width: 400px;
+    margin-left: 10px;
+}
+
+.btn {
+    height: 33px;
+    position: absolute;
+    right: 0;
+    border-radius:1px;
+    color: white;
+    background: #2F4F4F;
+}
+
+
+
+
+

@@ -1,0 +1,35 @@
+.header{
+    background:blue;
+    width: 100%;
+    padding: 20px 10px;
+}
+
+.logo {
+    font-size: 30px;
+    color: white;
+    float: left
+}
+
+.btn {
+    float: right
+}
+
+.line {
+    width: 20px;
+    height: 2px;
+    background: white;
+}
+
+.distance {
+    margin: 3px 0
+}
+
+button {
+    background: none;
+    border: none;
+}
+
+body {
+    margin: 0;
+    padding: 0
+}
